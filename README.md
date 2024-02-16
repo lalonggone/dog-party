@@ -4,7 +4,7 @@
 [https://frontend.turing.edu/projects/M2-static-comp-challenge.html](https://frontend.turing.edu/projects/M2-static-comp-challenge.html)
 
 ## Deployed Repo
-// will insert once I figure that out 😓
+[Deployed Comp](https://lalonggone.github.io/dog-party/)
 
 ## About
 
